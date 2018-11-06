@@ -1,6 +1,8 @@
 # react-native-label
 Flexible, autoscale, sizetofit `<Text/>` component without any native module
 
+It can be adjusted to fullfil the usage of `wrap_content` in android and `minimumScale` in iOS
+
 # Available props
 `text`
 `color`
