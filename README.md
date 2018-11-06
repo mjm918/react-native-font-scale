@@ -1,5 +1,5 @@
 # react-native-label
-Flexible, autoscale, sizetofit `&lt;Text/>` component without any native module
+Flexible, autoscale, sizetofit `<Text/>` component without any native module
 
 # Available props
 `text`
@@ -15,11 +15,11 @@ Flexible, autoscale, sizetofit `&lt;Text/>` component without any native module
 
 You can use this if you want to make the text scale and fit the view without trauncate tail
 
-                          `<Label
+                          <Label
                                 text={'Your text'}
                                 width={widthOfTheView}
                                 fixed={true}
                                 style={yourStyle}
-                            />`
+                            />
 
 
